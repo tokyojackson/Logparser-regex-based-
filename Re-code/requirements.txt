@@ -1,0 +1,6 @@
+deap
+numpy
+pandas
+scipy
+regex
+natsort
